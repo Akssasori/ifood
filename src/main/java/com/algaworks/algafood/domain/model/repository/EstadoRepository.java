@@ -1,7 +1,6 @@
 package com.algaworks.algafood.domain.model.repository;
 
 import com.algaworks.algafood.domain.model.Estado;
-import com.algaworks.algafood.domain.model.FormaPagamento;
 
 import java.util.List;
 
